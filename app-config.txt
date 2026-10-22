@@ -1,0 +1,5 @@
+Application = Payment service
+Env = Dev
+Port = 8080
+Loglevel = Info
+for Mumbai
