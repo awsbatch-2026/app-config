@@ -1,5 +1,6 @@
 Application = Payment service
 Env = Dev
-Port = 8080
-Loglevel = Info
+Port = 9090
+Loglevel = Debug
 for Mumbai
+Metricsenable =true
