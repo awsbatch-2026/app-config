@@ -1,6 +1,6 @@
 Application = Payment service
 Env = Dev
-Port = 9999
+Port = 9090
 Loglevel = Debug
 for Mumbai
 Metricsenable =true
